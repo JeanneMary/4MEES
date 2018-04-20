@@ -8,6 +8,9 @@ Every workout will be accompanied by your music to the end and happy mood.
 
 Please note that continued use of GPS running in the background can vary decrease battery life.
 
+![image](https://raw.githubusercontent.com/JeanneMary/4MEES/master/2.png)
+
+
 Email:jeannemary@qq.com
 
 --Special Note--
